@@ -1,0 +1,345 @@
+.color-white {
+    color: white;
+}
+
+.bg-color-dark {
+    background: rgb(250, 116, 54);
+}
+
+.color-dark {
+    color: rgb(250, 116, 54);
+}
+.primary-color-light {
+    background-color: rgb(232, 245, 250);
+}
+
+.line-thru {
+    text-decoration: line-through;
+}
+
+.border-none {
+    
+    border-style: none;
+    
+}
+
+
+
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+ .menu-box {
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+    }
+
+
+.log-opt {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+
+    .signup {
+    padding: 0.3rem 1rem;
+}
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 2rem;
+}
+
+.brand-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    gap: 5rem;
+
+    button {
+        background-color: white;
+        padding: 5px 1rem;
+        border-color: rgb(250, 116, 54);
+    }
+
+
+
+}
+
+
+.filter {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background: white;
+    margin: 5rem;
+}
+
+.things-to-do {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.content-1 {
+    display: flex;
+    flex-flow: column;
+    padding: 8rem 15rem;
+    gap: 5rem;
+}
+
+.main-cont {
+    display: flex;
+    text-align: center;
+    flex-flow: column;
+}
+
+.options {
+    display: flex;
+    justify-content: space-between;
+    gap: 5rem;
+
+
+
+
+.option-1 {
+        display: flex;
+        background-color: white;
+        flex-flow: column;
+        padding: 15px;
+
+
+
+
+img {
+            width: 1.5rem;
+        }
+    }
+}
+
+
+.container-2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.offers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    padding: 5rem;
+
+.deals {
+        display: flex;
+        text-align: center;
+        flex-flow: column;
+    }
+
+
+.cards {
+        display: flex;
+        justify-content: space-around;
+        transform: scale(0.7);
+        flex-flow: row;
+        gap: 1rem;
+
+
+
+        .caption {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: x-large;
+        }
+
+
+
+        .caption-1 {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 2px;
+
+
+            .amnt {
+                border-radius: 2px;
+                padding: 3px;
+            }
+
+
+            .discount {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                gap: 0.75rem;
+    }
+}
+}
+}
+
+.booking {
+    position: absolute;
+    left: 33%;
+    top: 45%;
+    font-size: larger;
+    padding: 8px 5px;
+    border-radius: 5px;
+    
+}
+.left {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 100%;
+    border-color: rgb(145, 136, 136);
+    padding: 3px;
+}
+
+.right {
+    width: 30px;
+    height: 30px;
+    padding: 3px;
+}
+
+.container-3 {
+    padding: 5rem;
+
+
+
+.deals-1 {
+        display: flex;
+        text-align: left;
+        flex-flow: column;
+        gap: 1rem;
+    }
+}
+
+.review {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 5rem;
+
+
+.client-front {
+    background-color: rgb(255, 255, 255);
+    padding: 2rem;
+}
+
+.profile {
+        position: relative;
+        right: 3rem;
+        bottom: 4rem;
+    }
+}
+
+.arrow-1 {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+
+.dots {
+    width: 1rem;
+    height: 1rem;
+    border-radius: 100%;
+}
+
+.container-4 {
+    padding: 7rem;
+}
+
+.registration {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    padding: 5rem;
+    gap: 5rem;
+    border-radius: 1rem;
+}
+
+.e-mail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    padding: 0.75rem;
+}
+.mail-inp {
+    display: flex;
+    align-items: center;
+}
+.ent-mail {
+    display: flex;
+    width: 25vw;
+}
+
+.subscribe {
+    padding: 0.5rem;
+    border-radius: 0.4rem;
+}
+
+.conclusion {
+    display: flex;
+    justify-content: space-between;
+    padding: 5rem 0px;
+}
+
+.conclusion-1 {
+    display: flex;
+    flex-flow: column;
+    gap: 4rem;
+
+
+
+.soc-media {
+        display: flex;
+        align-items: center;
+        flex-flow: row;
+        gap: 2rem;
+    }
+
+
+button {
+        width: 2rem;
+        height: 2rem;
+        border-radius: 100%;
+        padding: 5px;
+        
+}
+
+
+
+}
+.end-menu {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+
+.company {
+        display: flex;
+        align-items: center;
+        flex-flow: column;
+        gap: 1rem;
+    }
+
+
+}
+
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
